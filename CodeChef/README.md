@@ -12,3 +12,4 @@
 - [Chef and String](https://www.codechef.com/JUNE20B/problems/XYSTR/)
 - [The Tom and Jerry Game!](https://www.codechef.com/JUNE20B/problems/EOEO/)
 - [Even Matrix](https://www.codechef.com/JUNE20B/problems/EVENM/)
+- [Bowling Strategy](https://www.codechef.com/COOK122B/problems/BOWLERS)
